@@ -1,13 +1,13 @@
 {
   "name": "agent-journal",
-  "owner": { "name": "quiet-publish", "url": "https://github.com/quiet-publish" },
+  "owner": { "name": "quietpublish", "url": "https://github.com/quietpublish" },
   "metadata": { "description": "Marketplace for the journal plugin: a human-approved, append-only agent journal for Claude Code" },
   "plugins": [
     {
       "name": "journal",
       "source": "./",
       "description": "Human-approved, append-only agent journal with a consolidation layer",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "category": "productivity"
     }
   ]

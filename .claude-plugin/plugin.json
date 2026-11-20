@@ -1,10 +1,10 @@
 {
   "name": "journal",
   "description": "Human-approved, append-only agent journal for any repo: dated entries written at the moment of realization (why, not what), stable IDs, a seek-table index, local semantic search, a glossary gate against jargon drift, and a monthly compile step that folds entries into a rewritten beliefs page and knowledge pages for human review.",
-  "version": "0.2.0",
-  "author": { "name": "quiet-publish", "url": "https://github.com/quiet-publish" },
-  "homepage": "https://github.com/quiet-publish/agent-journal",
-  "repository": "https://github.com/quiet-publish/agent-journal",
+  "version": "0.2.1",
+  "author": { "name": "quietpublish", "url": "https://github.com/quietpublish" },
+  "homepage": "https://github.com/quietpublish/agent-journal",
+  "repository": "https://github.com/quietpublish/agent-journal",
   "license": "MIT",
   "keywords": ["journal", "memory", "decision-log", "claude-code", "institutional-memory"],
   "skills": "./skills/"

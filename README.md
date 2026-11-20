@@ -11,7 +11,7 @@ entry gets a correction entry that names what it supersedes.
 ## Install
 
 ```
-/plugin marketplace add quiet-publish/agent-journal
+/plugin marketplace add quietpublish/agent-journal
 /plugin install journal@agent-journal
 ```
 
